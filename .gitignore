@@ -47,3 +47,6 @@ college_search_results.json# Ignore local env and build artifacts
 backend/.env
 frontend/.env.local
 frontend/dist
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
