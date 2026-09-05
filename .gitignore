@@ -1,5 +1,3 @@
-.env
-.env.*
 
 # Python
 __pycache__/
@@ -35,7 +33,6 @@ frontend/dist/
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
 
 # Coverage / reports
 coverage/
@@ -47,6 +44,7 @@ college_search_results.json# Ignore local env and build artifacts
 backend/.env
 frontend/.env.local
 frontend/dist
+branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-branch_structure.json
+config.bat
